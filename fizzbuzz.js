@@ -22,5 +22,5 @@ function fizzbuzz(n){
     
     
 }
-y = fizzbuzz('12');
+y = fizzbuzz('15');
 console.log(y);
